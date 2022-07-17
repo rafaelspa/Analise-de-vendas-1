@@ -10,7 +10,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-import entity.Sale;
+import entities.Sale;
 
 public class Program {
 
